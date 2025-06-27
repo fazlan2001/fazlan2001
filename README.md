@@ -1,7 +1,7 @@
 # 💫 About Me:
 IT Specialist and 2nd year undergraduate in computer Science at NIBM with Strong communication skills 🗣️ and critical problem solving ability 🧠 to analyze and resolve a problem.<br>Currently Learning Angular 🅰️ and soon I'll cook a Delicious Dish! 👨‍🍳🍽️<br>Cooked Awesome projects with Java ☕ | C# 💻 | JavaScript ⚡ which solved real world hungers! 🌍🍴<br><br>Experienced tools :- Visual Studio 🖥️ | GitHub 🐱 | Visual Studio Code 📝 | SSMS 📊 | Firebase 🔥 | Android Studio 🤖 | Postman 📬<br><br>Expert in :- CSS 🎨 | HTML 🌐 | React ⚛️<br><br>Join me, we can cook an awesome dish together! 🍲👨‍💻👩‍💻<br><br>Cheers! 🥂
 
-
+## Portfolio - https://faslanfowmy.netlify.app/
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/fazlanfowmy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faslanfowmy) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:21092381) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCBpcwQPYGvdkxco5ljO00xg) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Fazlan-Fowmy) 
